@@ -1,0 +1,36 @@
+html{
+    background-color: #C70039;
+}
+h1{
+     background-color:#0079FF;
+   
+}
+#color{
+ background-color:#00DFA2;
+ border: 1px solid white;
+}
+#fontsize{
+    background-color: #F6FA70;
+    border: 1px solid white;
+}
+#fontWeight{
+background-color: #FF0060;
+border: 1px solid white;
+}
+#textAlign{
+background-color:#FF6666;
+border: 1px solid white;
+}
+#fontFamily{
+background-color: lime;
+border: 1px solid white;
+}
+*{
+    text-align: center;
+}
+div{
+    border: 30px solid black;
+    margin-top: 50px;
+    margin-left:100px ;
+    margin-right:100px ;
+}
